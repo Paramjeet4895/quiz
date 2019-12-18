@@ -1,0 +1,122 @@
+{
+    "question1": {
+        "questionId": 1,
+        "questionDescription": "1. If in a certain language,MADRAS is coded as  NBESBT, how is BOMBAY coded in that code?",
+        "answer": "Each letter in the word is moved one step forward to obtain the corresponding letter of the code.",
+        "coranswer": "B",
+        "options": [
+            "CPNCBX",
+            "CPNCBZ",
+            "CQOCBZ",
+            "CPOCBZ"
+        ]
+    },
+    "question2": {
+        "questionId": 2,
+        "questionDescription": "2. Showing a photograph P said,She is my mother's mother's son's  daughter.How is the person in the photograph related to P?",
+        "answer": "P's mother's mother's son is P's uncle. P's uncle's daughte is P's cousin.",
+        "coranswer": "C",
+        "options": [
+            "Sister",
+            "Niece",
+            "Cousin",
+            "Mother"
+        ]
+    },
+    "question3": {
+        "questionId": 3,
+        "questionDescription": "3. Man: Biography :: Nation: ?",
+        "answer": "Second contains the story of the first",
+        "coranswer": "D",
+        "options": [
+            "Leader",
+            "People",
+            "Geography",
+            "History"
+        ]
+    },
+    "question4": {
+        "questionId": 4,
+        "questionDescription": "4. ELFA, GLHA, ILJA, _______, MLNA",
+        "answer": "The second and forth letters in the series,L and A, are static. The first and third letters consist of an alphabetical order beginning with the letter E.",
+        "coranswer": "D",
+        "options": [
+            "OLPA",
+            "KLMA",
+            "LLMA",
+            "KLLA"
+        ]
+    },
+    "question5": {
+        "questionId": 5,
+        "questionDescription": "5. 32 31 32 29 32 27 32",
+        "answer": "This is an alternating repetition series. The number 32 alternates with a  series in which each number decreases by 2. ",
+        "coranswer": "A",
+        "options": [
+            "25 32",
+            "31 32",
+            "29 32",
+            "25 30"
+        ]
+    },
+    "question6": {
+        "questionId": 6,
+        "questionDescription": "6. Essential Part : Shoe",
+        "answer": "All shoes have a sole of some sort. Not all shoes are made of leather;nor do they  all have laces.Walking is not essential to shoe.",
+        "coranswer": "A",
+        "options": [
+            "Sole",
+            "Leather",
+            "Laces",
+            "Walking"
+        ]
+    },
+    "question7": {
+        "questionId": 7,
+        "questionDescription": "7. Arrange the given words in alphabetical order and tick one that comes in the third?",
+        "answer": "Parasite,Party,Paste,Petal ",
+        "coranswer": "D",
+        "options": [
+            "Parasite",
+            "Party",
+            "Petal",
+            "Paste"
+        ]
+    },
+    "question8": {
+        "questionId": 8,
+        "questionDescription": "8. Arrange in order: 1.Reading 2.Composing 3.Writing 4.Printing",
+        "answer": "3,2,4,1",
+        "coranswer": "C",
+        "options": [
+            "1,3,2,4",
+            "2,3,4,1",
+            "3,2,4,1",
+            "3,1,2,4"
+        ]
+    },
+    "question9": {
+        "questionId": 9,
+        "questionDescription": "9. 121 : 169 :: 361 : _____ ",
+        "answer": "121 : 169 :: 361 : _____  (11)^2 : (13)^2 ::(19)^2:___ The given numbers are squares of  consecutive prime numbers.Hence, the prime number next is 23. (23)^2 = 529",
+        "coranswer": "A",
+        "options": [
+            "529",
+            "400",
+            "484",
+            "576"
+        ]
+    },
+    "question10": {
+        "questionId": 10,
+        "questionDescription": "10. Raman ranks sixteenth from the top and forty nine from the bottom in a class. How many students are there in class?",
+        "answer": "15+1+48=64",
+        "coranswer": "A",
+        "options": [
+            "64",
+            "65",
+            "66",
+            "Cannot be determined"
+        ]
+    }
+}
